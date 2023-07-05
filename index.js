@@ -53,7 +53,7 @@ function add(){
 
 
 
-function EditBox(bid) {
+/*function EditBox(bid) {
 
     var box = bid
     
@@ -84,7 +84,7 @@ function EditBox(bid) {
         }
 
     
-}
+}*/
 
     
     
